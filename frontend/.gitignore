@@ -14,6 +14,7 @@ dist-ssr
 
 #Api key
 *.env
+*.env.*.local
 
 # Editor directories and files
 .vscode/*
